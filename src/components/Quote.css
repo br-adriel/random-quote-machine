@@ -1,0 +1,10 @@
+#text {
+  text-align: center;
+  padding: 0.5rem 0;
+  font-size: 1.5rem;
+}
+
+#author {
+  text-align: right;
+  margin-right: 1.5rem;
+}
