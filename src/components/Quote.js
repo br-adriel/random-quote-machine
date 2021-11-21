@@ -4,8 +4,8 @@ import "./Quote.css";
 const Quote = (props) => {
   return (
     <>
-      <p id="text">Quote</p>
-      <p id="author">- Author</p>
+      <p id="text">{props.data.content}</p>
+      <p id="author">- {props.data.author}</p>
     </>
   );
 };

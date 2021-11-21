@@ -8,8 +8,12 @@ const QuoteBox = (props) => {
   return (
     <>
       <section id="quote-box">
-        <Quote />
-        <Actions />
+        <Quote data={props.data} />
+        <Actions
+          classColor={props.classColor}
+          getQuote={props.getQuote}
+          data={props.data}
+        />
       </section>
       <Footer />
     </>
