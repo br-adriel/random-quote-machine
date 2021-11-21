@@ -1,7 +1,12 @@
 import "./App.css";
+import QuoteBox from "./components/QuoteBox";
 
-function App() {
-  return <h1>Random quote machine</h1>;
-}
+const App = () => {
+  return (
+    <main className={"bg0"}>
+      <QuoteBox />
+    </main>
+  );
+};
 
 export default App;
