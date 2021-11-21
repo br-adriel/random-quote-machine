@@ -5,6 +5,11 @@
   margin-top: 1rem;
 }
 
+.actions div {
+  display: flex;
+  justify-content: flex-start;
+}
+
 .btn:hover {
   background-color: #eee;
 }
