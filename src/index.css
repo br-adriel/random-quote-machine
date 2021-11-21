@@ -47,3 +47,12 @@
 .bg7 {
   background-color: #78e08f;
 }
+
+.btn {
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+  color: #fff;
+  margin: 0 0.1rem;
+  cursor: pointer;
+  transition: all 0.4s;
+}
