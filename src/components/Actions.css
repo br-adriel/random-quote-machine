@@ -1,0 +1,42 @@
+.actions {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.btn:hover {
+  background-color: #eee;
+}
+
+.btn.bg0:hover {
+  color: #222;
+}
+
+.btn.bg1:hover {
+  color: #30336b;
+}
+
+.btn.bg2:hover {
+  color: #4834d4;
+}
+
+.btn.bg3:hover {
+  color: #badc58;
+}
+
+.btn.bg4:hover {
+  color: #f0932b;
+}
+
+.btn.bg5:hover {
+  color: #22a6b3;
+}
+
+.btn.bg6:hover {
+  color: #b71540;
+}
+
+.btn.bg7:hover {
+  color: #78e08f;
+}

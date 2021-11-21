@@ -15,3 +15,35 @@
   width: 100vw;
   min-height: 100vh;
 }
+
+.bg0 {
+  background-color: #222;
+}
+
+.bg1 {
+  background-color: #30336b;
+}
+
+.bg2 {
+  background-color: #4834d4;
+}
+
+.bg3 {
+  background-color: #badc58;
+}
+
+.bg4 {
+  background-color: #f0932b;
+}
+
+.bg5 {
+  background-color: #22a6b3;
+}
+
+.bg6 {
+  background-color: #b71540;
+}
+
+.bg7 {
+  background-color: #78e08f;
+}
