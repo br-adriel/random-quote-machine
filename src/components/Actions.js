@@ -24,7 +24,7 @@ const Actions = (props) => {
           title="Post on Tumblr"
           rel="noreferrer"
         >
-          <i class="fab fa-tumblr"></i>
+          <i className="fab fa-tumblr"></i>
         </a>
       </div>
       <button

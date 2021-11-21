@@ -27,7 +27,9 @@ const App = () => {
 
   return (
     <main className={`bg${classColor}`}>
-      <QuoteBox classColor={classColor} data={data} getQuote={getQuote} />
+      <div className="container">
+        <QuoteBox classColor={classColor} data={data} getQuote={getQuote} />
+      </div>
     </main>
   );
 };
